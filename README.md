@@ -1,3 +1,3 @@
-# Advanced-UI-Management-in-Unity-UI-Sounds-Motions-and-Events-Tutorial
+# Advanced UI Management in Unity UI with Sounds Motions and Events
 
-https://www.youtube.com/watch?v=6-yAPoYSdqU&lc=UgxdpGvN2BvDonLa0_p4AaABAg
+[Take me to tutorial](https://www.youtube.com/watch?v=6-yAPoYSdqU&lc=UgxdpGvN2BvDonLa0_p4AaABAg)
